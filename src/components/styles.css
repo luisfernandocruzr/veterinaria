@@ -1,0 +1,60 @@
+.capa {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-image:url(/images/vet.jpg);
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+.capa3 {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-image:url(/images/vet1.jpg);
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+.capa2 {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-image:url(/images/vet3.jpg);
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+.capa1 {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-image:url(/images/vet4.jpg);
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+
+.ventaFlor{
+	margin-left: 20px;
+	height: 20px;
+}
+.contactos{
+	margin-left: 20px;
+	height: 20px;
+}
+
+.compraFlor{
+	margin-left: 20px;
+	height: 20px;
+}
+.inicio{
+	margin-top: 50px;
+	background-color: rgba(255, 251, 5, 0.575);
+}
+.nav{
+	width: 350px;
+	height: 70px;
+	text-align: center;
+}
+
